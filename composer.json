@@ -1,0 +1,14 @@
+{
+    "name": "xingxingso/simpleweb",
+    "description": "my web for study",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Kant Chan",
+            "email": "1126973789@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
