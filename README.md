@@ -1,2 +1,2 @@
 # simpleweb
-my simple web
+my simple web for study!
