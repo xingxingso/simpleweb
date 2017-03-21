@@ -10,5 +10,17 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "gregwar/captcha": "^1.1"
+    },
+    "autoload": {
+        "files": [  
+            "core/functions.php"
+        ],
+        "psr-4": {  
+            "core\\": "core/",
+            "web\\": "web/"
+        }
+    }
+
 }
